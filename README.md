@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Ifeanyi, and I am cloud engineer
+
+- 🔭 I’m currently working on automating infrastructure provisioning using Terraform and AWS
+- 🌱 I’m currently learning Python for Infrastructure automation and exploring serverless architectures with Lambda
+- 👯 I’m looking to collaborate on projects that use Devops best practices to improve software delivery
 <!--
 **Donvic17/Donvic17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
