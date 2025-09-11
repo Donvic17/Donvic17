@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ifeanyi, and I am a cloud engineer
+My name is Ifeanyi, and I am a devops/cloud engineer
 
 - 🔭 I’m currently working on automating infrastructure provisioning using Terraform and AWS
 - 🌱 I’m currently learning Python for Infrastructure automation and exploring serverless architectures with Lambda
